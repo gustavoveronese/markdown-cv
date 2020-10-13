@@ -56,11 +56,11 @@ __Graduação em Bacharelado em Ciência da Computação, UFRJ__
 
 Bolsista de iniciação científica na COPPE/UFRJ, entre 2000 e 2001
 
-## Tecnologias, plataformas e metodologias
+## Tecnologias & Práticas
 
 C#, C, Orientação a Objetos, M (Power Query), R (Introdutório), Sistemas distribuídos, Domain Driven
-Design (DDD), Arquiteturas em Microserviço, Design de APIs, Integração contínua, Tableau, Git, Azure
-Cloud, Kafka, Elastic Search, FIX Protocol, XML Anbima, Kanban 
+Design (DDD), Arquiteturas em Microserviço, Design de APIs, Tableau, Git, Azure
+Cloud, Kafka, Elastic Search, FIX Protocol, XML Anbima, Integração contínua, Kanban 
 
 ## Idiomas
 
