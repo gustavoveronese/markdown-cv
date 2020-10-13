@@ -1,91 +1,73 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Gustavo Veronese
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Gustavo Veronese
+Botafogo, Rio de Janeiro
+
+
+(21) 98103 6193
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="gustavo.veronese@gmail.com">gustavo.veronese@gmail.com</a>
 </div>
 
 
-## Currently
+## Experiência
+`03/2019 até o presente`
+__Banco Modal - Líder Técnico - Desenvolvedor Sênior__
 
-Standing on the shoulders of giants
+Desenvolvimento de pipeline de dados de ordens e cotações de mercado para suporte a tomada de decisões da área de Risco, rotinas de RLP e zeragem da corretora . A solução realiza integração com a B3 via protocolo FIX em plataforma de streaming escalável e de baixa latência.
 
-### Specialized in
+`2010 a 02/2019`
+__Accenture, Applied Intelligence, Líder técnico, Senior Manager__
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Líder de tecnologia da unidade de negócio de Risk Analytics, vinculada à área de Applied Intelligence. A unidade de negócio desenvolve e comercializa uma solução de suporte à decisão para tesouraria e gestão de risco para bancos, assets, administradoras de recursos, seguradoras, tradings de commodities e empresas não financeiras. A equipe de tecnologia atuava no desenvolvimento, DevOps, qualidade, market data e arquitetura de integração. Atuação no direcionamento estratégico do produto, evolução da arquitetura, suporte aos ciclos de venda e implantação do produto e implementação de metodologia ágil. 
 
+`2003 - 2010`
+__RiskControl Serviços - Desenvolvedor/Líder técnico - Gerente__
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Desenvolvedor na empresa RiskControl Serviços LTDA. A partir de 2008, atuei como líder de desenvolvimento do sistema RiskControl e na construção de ferramentas de front, middle e backoffice e do core de precificação e modelagem de contratos, como instrumentos de renda fixa e derivativos exóticos. A empresa foi adquirida em 2010 pela Accenture. 
+Treinamentos e consultoria em software 2001 – 2003 Condução de treinamentos em desenvolvimento Java e Padrões de projetos e consultorias em desenvolvimento de software. 
 
 
+## Educação
 
-## Awards
+`2016-2017`
+__Coursera__
 
-`2012`
-President, *Royal Society*, London, UK
+* Duke University - Data Visualization and Communication with Tableau
 
-Associate, *French Academy of Science*, Paris, France
+* Princeton University - Bitcoin and Cryptocurrency Technologies
 
+* University of Colorado - Datawarehouse Concepts, Design, and Data Integration
 
+`2006`
+__Curso de Risco de Mercado - BM&F - Instituto Educacional__
 
-## Publications
+`2001-2004`
+__Mestrado em Engenharia de Sistemas e Computação, COPPE/UFRJ__
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+Bolsista de CNpQ
 
-### Journals
+`1997-2001`
+__Graduação em Bacharelado em Ciência da Computação, UFRJ__
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Bolsista de iniciação científica na COPPE/UFRJ, entre 2000 e 2001
 
-`1669`
-Lectiones opticæ.
+## Tecnologias, plataformas e metodologias
 
-etc. etc. etc.
+C#, C, Orientação a Objetos, M (Power Query), R (Introdutório), Sistemas distribuídos, Domain Driven
+Design (DDD), Arquiteturas em Microserviço, Design de APIs, Integração contínua, Tableau, Git, Azure
+Cloud, Kafka, Elastic Search, FIX Protocol, XML Anbima, Kanban 
 
-### Patents
+## Idiomas
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Inglês - Leitura, Fala, Escrita
 
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+Francês e Espanhol - Leitura
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
+Last updated: Outubro 2020 -->
 
