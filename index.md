@@ -15,17 +15,17 @@ Botafogo, Rio de Janeiro
 
 ## Experiência
 `03/2019 até o presente`
-__Banco Modal - Líder Técnico - Desenvolvedor Sênior__
+__Banco Modal - Dev. Manager__
 
 Desenvolvimento de pipeline de dados de ordens e cotações de mercado para suporte a tomada de decisões da área de Risco, rotinas de RLP e zeragem da corretora . A solução realiza integração com a B3 via protocolo FIX em plataforma de streaming escalável e de baixa latência.
 
 `2010 a 02/2019`
-__Accenture, Applied Intelligence, Líder técnico, Senior Manager__
+__Accenture, Applied Intelligence, Senior Software Engineering Manager__
 
 Líder de tecnologia da unidade de negócio de Risk Analytics, vinculada à área de Applied Intelligence. A unidade de negócio desenvolve e comercializa uma solução de suporte à decisão para tesouraria e gestão de risco para bancos, assets, administradoras de recursos, seguradoras, tradings de commodities e empresas não financeiras. A equipe de tecnologia atuava no desenvolvimento, DevOps, qualidade, market data e arquitetura de integração. Atuação no direcionamento estratégico do produto, evolução da arquitetura, suporte aos ciclos de venda e implantação do produto e implementação de metodologia ágil. 
 
 `2003 - 2010`
-__RiskControl Serviços - Desenvolvedor/Líder técnico - Gerente__
+__RiskControl Serviços - Senior Software Engineer, Tech Leader__
 
 Desenvolvedor na empresa RiskControl Serviços LTDA. A partir de 2008, atuei como líder de desenvolvimento do sistema RiskControl e na construção de ferramentas de front, middle e backoffice e do core de precificação e modelagem de contratos, como instrumentos de renda fixa e derivativos exóticos. A empresa foi adquirida em 2010 pela Accenture. 
 Treinamentos e consultoria em software 2001 – 2003 Condução de treinamentos em desenvolvimento Java e Padrões de projetos e consultorias em desenvolvimento de software. 
