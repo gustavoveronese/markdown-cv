@@ -25,7 +25,7 @@ Modalmais is one of the first entrants into digital banking in Brazil. It has ne
 `2010 - Feb/2019`
 __Accenture, Applied Intelligence, Senior Software Engineering Manager__
 
-Tech leader of the Risk Analytics business unit. Evolved and built decision support solutions for financial and non financial institutions. Led the product technology team of 15 members, and was responsible for  product evolution, driving architecture decisions, and support technical selling.
+Tech leader of the Risk Analytics business unit. Evolved and built decision support solutions for financial and non financial institutions. Led the product technology team of 15 members, and was responsible for  product evolution, driving architecture decisions, write functional and technical specification, and support technical selling. Major solution clients included leading global mining company, large agribusiness trading company, and Brazil Development Bank (BNDES)
 
 
 
@@ -61,6 +61,15 @@ __MSc in Systems Egineering, COPPE, Federal University of Rio de Janeiro (UFRJ)_
 __BSc in Computer Science, Federal University of Rio de Janeiro (UFRJ)__
 
 Granted with undergraduate governement research scholarship (CNPq) at COPPE/UFRJ, from 2000 to 2001.
+
+## Publications
+
+`2006`
+VERONESE, Gustavo Olanda; DANTAS, Alexandre Ribeiro; BARROS, Marcio de Oliveira; WERNER, Claudia. "Model Driven Game Development: Leveraging from Simulation to User Interaction Models". In: Prom Sim 2005 Special Issue in Software Process Improvement and Practice (SPIP).
+
+`2005`
+VERONESE, Gustavo Olanda; DANTAS, Alexandre; WERNER, Claudia Maria Lima. Model Support for Simulation-Based Training Games: From Behavioral Modeling to User Interactions, The 6th International Workshop on Software Process Simulation and Modeling, ProSim. Missouri, USA, May, 2005
+
 
 ## Technologies, Platform & Methodologies
 
