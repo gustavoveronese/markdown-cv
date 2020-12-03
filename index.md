@@ -20,10 +20,13 @@ __Banco Modal/Modalmais - Dev. Manager__
 
 Modalmais is one of the first entrants into digital banking in Brazil. It has nearly $2 billions under custody, and more than 1 million clients. Leader of Risk Managament tecnhology team, responsible for the data infrastructure pipeline the provides low latency data for the risk management team. 
 
+
+
 `2010 - Feb/2019`
 __Accenture, Applied Intelligence, Senior Software Engineering Manager__
 
 Tech leader of Risk Analytics business unit. Evolved and built decision support solutions for financial and non financial institutions. Led the product technology team of 15 members, and was responsible for  product evolution, drive architecture decisions, and support technical selling.
+
 
 
 `2003 - 2010`
@@ -43,8 +46,10 @@ Princeton University - Bitcoin and Cryptocurrency Technologies
 
 University of Colorado - Datawarehouse Concepts, Design, and Data Integration
 
+
 `2006`
 __Market Risk - BM&F Exchange Educational Institute__
+
 
 `2001-2004`
 __MSc in Systems Egineering, COPPE, Federal University of Rio de Janeiro (UFRJ)__
