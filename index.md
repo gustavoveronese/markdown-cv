@@ -9,6 +9,8 @@ Rio de Janeiro, Brasil
 
 <div id="webaddress">
 <a href="gustavo.veronese@gmail.com">gustavo.veronese@gmail.com</a>
+| <a href="https://linkedin.com/in/gustavoveronese">linkedin.com/in/gustavoveronese/</a>
+
 </div>
 
 
@@ -34,6 +36,7 @@ I was admitted as software engineer in 2003, and developed pricing and market ri
 
 `2016 - 2017`
 __Coursera__
+
 Duke University - Data Visualization and Communication with Tableau
 
 Princeton University - Bitcoin and Cryptocurrency Technologies
