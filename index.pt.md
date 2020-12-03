@@ -35,11 +35,11 @@ Treinamentos e consultoria em software 2001 – 2003 Condução de treinamentos 
 
 `2016-2017`
 __Coursera__
-* Duke University - Data Visualization and Communication with Tableau
+Duke University - Data Visualization and Communication with Tableau
 
-* Princeton University - Bitcoin and Cryptocurrency Technologies
+Princeton University - Bitcoin and Cryptocurrency Technologies
 
-* University of Colorado - Datawarehouse Concepts, Design, and Data Integration
+University of Colorado - Datawarehouse Concepts, Design, and Data Integration
 
 `2006`
 __Curso de Risco de Mercado - BM&F - Instituto Educacional__
