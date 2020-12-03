@@ -46,13 +46,13 @@ __Market Risk - BM&F Exchange Educational Institute__
 `2001-2004`
 __MSc in Systems Egineering, COPPE, Federal University of Rio de Janeiro (UFRJ)__
 
- Granted with a government research scholarship (CNPq) at COPPE/UFRJ under the direction of Professor Claudia Werner, PhD
+ Granted with a governement research scholarship (CNPq) at COPPE/UFRJ under the direction of Professor Claudia Werner, PhD
  
 
 `1997-2001`
 __BSc in Computer Science, Federal University of Rio de Janeiro (UFRJ)__
 
-Undergraduate research scholarship (CCNPq) at COPPE/UFRJ, from 2000 to 2001.
+Granted with undergraduate governement research scholarship (CNPq) at COPPE/UFRJ, from 2000 to 2001.
 
 ## Technologies, Platform & Methodologies
 
