@@ -12,17 +12,16 @@ Botafogo, Rio de Janeiro
 <a href="gustavo.veronese@gmail.com">gustavo.veronese@gmail.com</a>
 </div>
 
-
 ## Experiência
 `03/2019 até o presente`
 __Banco Modal - Dev. Manager__
 
-Desenvolvimento de pipeline de dados de ordens e cotações de mercado para suporte a tomada de decisões da área de Risco, rotinas de RLP e zeragem da corretora . A solução realiza integração com a B3 via protocolo FIX em plataforma de streaming escalável e de baixa latência.
+Líder de desenvolvimento do squad de Risco do Banco Modal, responsável pelo desenvolvimento de pipeline de dados de ordens e cotações de mercado para suporte a tomada de decisões da área de Risco, rotinas de RLP e zeragem da corretora. A solução realiza integração com a B3 via protocolo FIX em plataforma de streaming escalável e de baixa latência. A equipe conta com 10 desenvolvedores.
 
 `2010 a 02/2019`
 __Accenture, Applied Intelligence, Senior Software Engineering Manager__
 
-Líder de tecnologia da unidade de negócio de Risk Analytics, vinculada à área de Applied Intelligence. A unidade de negócio desenvolve e comercializa uma solução de suporte à decisão para tesouraria e gestão de risco para bancos, assets, administradoras de recursos, seguradoras, tradings de commodities e empresas não financeiras. A equipe de tecnologia atuava no desenvolvimento, DevOps, qualidade, market data e arquitetura de integração. Atuação no direcionamento estratégico do produto, evolução da arquitetura, suporte aos ciclos de venda e implantação do produto e implementação de metodologia ágil. 
+Líder de tecnologia da unidade de negócio de Risk Analytics, vinculada à área de Applied Intelligence. A unidade de negócio desenvolve e comercializa uma solução de suporte à decisão para tesouraria e gestão de risco para bancos, assets, administradoras de recursos, seguradoras, tradings de commodities e empresas não financeiras. A equipe de tecnologia atuava no desenvolvimento, DevOps, qualidade, market data e arquitetura de integração. Atuação no direcionamento estratégico do produto, evolução da arquitetura, suporte aos ciclos de venda e implantação do produto e implementação de metodologia ágil. A equipe contava com 15 desenvolvedores.
 
 `2003 - 2010`
 __RiskControl Serviços - Senior Software Engineer, Tech Leader__
@@ -62,9 +61,8 @@ Cloud, Kafka, Elastic Search, FIX Protocol, XML Anbima, Kanban
 
 ## Idiomas
 
-Inglês - Leitura, Fala, Escrita
-
-Francês e Espanhol - Leitura
+Inglês avançado
+Francês intermediário
 
 <!-- ### Footer
 
