@@ -3,88 +3,68 @@ layout: cv
 title: Gustavo Veronese
 ---
 # Gustavo Veronese
-Rio de Janeiro, Brasil
+Botafogo, Rio de Janeiro
 
-+55 21 98103 6193
+
+(21) 98103 6193
 
 <div id="webaddress">
 <a href="gustavo.veronese@gmail.com">gustavo.veronese@gmail.com</a>
-| <a href="https://linkedin.com/in/gustavoveronese">linkedin.com/in/gustavoveronese/</a>
-
 </div>
 
+## Experiência
+`03/2019 até o presente`
+__Banco Modal - Dev. Manager__
 
-## Professional Experience
-`Mar/2019 - now`
-__Banco Modal/Modalmais - Dev. Manager__
+Líder de desenvolvimento do squad de Risco do Banco Modal, responsável pelo desenvolvimento de pipeline de dados de ordens e cotações de mercado para suporte a tomada de decisões da área de Risco, rotinas de RLP e zeragem da corretora. A solução realiza integração com a B3 via protocolo FIX em plataforma de streaming escalável e de baixa latência. A equipe conta com 10 desenvolvedores.
 
-Modalmais is one of the first entrants into digital banking in Brazil. It has nearly $2 billions under custody, and more than 1 million clients. Leader of Risk Managament tecnhology team, responsible for a low latency streaming pipeline that provides market and portofolio data for the risk management team. 
-
-
-
-`2010 - Feb/2019`
+`2010 a 02/2019`
 __Accenture, Applied Intelligence, Senior Software Engineering Manager__
 
-Tech leader of the Risk Analytics business unit. Evolved and built decision support solutions for financial and non financial institutions. Led the product technology team of 15 members, and was responsible for  product evolution, driving architecture decisions, write functional and technical specification, and support technical selling. Major solution clients included leading global mining company, large agribusiness trading company, and Brazil Development Bank (BNDES)
-
-
+Líder de tecnologia da unidade de negócio de Risk Analytics, vinculada à área de Applied Intelligence. A unidade de negócio desenvolve e comercializa uma solução de suporte à decisão para tesouraria e gestão de risco para bancos, assets, administradoras de recursos, seguradoras, tradings de commodities e empresas não financeiras. A equipe de tecnologia atuava no desenvolvimento, DevOps, qualidade, market data e arquitetura de integração. Atuação no direcionamento estratégico do produto, evolução da arquitetura, suporte aos ciclos de venda e implantação do produto e implementação de metodologia ágil. A equipe contava com 15 desenvolvedores.
 
 `2003 - 2010`
-__RiskControl Serviços - Software Engineer, Tech Leader__
+__RiskControl Serviços - Senior Software Engineer, Tech Leader__
 
-RiskControl developed decision support solutions for financial and risk management serving financial institutions, pension funds, insurance companies and non-financial companies. 
-I was admitted as software engineer in 2003, and developed pricing and market risk models for financial instruments, such as Interest Rate Derivatives, Foreign Exchange (FX) Options. Responsible for the maintenance and evolution of the solution core, asset pricing, P&L, and integrations. Managed a team of 6 developers after 2007. The company was acquired by Accenture in 2010. 
+Desenvolvedor na empresa RiskControl Serviços LTDA. A partir de 2008, atuei como líder de desenvolvimento do sistema RiskControl e na construção de ferramentas de front, middle e backoffice e do core de precificação e modelagem de contratos, como instrumentos de renda fixa e derivativos exóticos. A empresa foi adquirida em 2010 pela Accenture. 
+Treinamentos e consultoria em software 2001 – 2003 Condução de treinamentos em desenvolvimento Java e Padrões de projetos e consultorias em desenvolvimento de software. 
 
-## Education
 
-`2016 - 2017`
+## Educação
+
+`2016-2017`
 __Coursera__
-
 Duke University - Data Visualization and Communication with Tableau
 
 Princeton University - Bitcoin and Cryptocurrency Technologies
 
 University of Colorado - Datawarehouse Concepts, Design, and Data Integration
 
-
 `2006`
-__Market Risk - BM&F Exchange Educational Institute__
-
+__Curso de Risco de Mercado - BM&F - Instituto Educacional__
 
 `2001-2004`
 __MSc in Systems Egineering, COPPE, Federal University of Rio de Janeiro (UFRJ)__
 
- Granted with a governement research scholarship (CNPq) at COPPE/UFRJ under the direction of Professor Claudia Werner, PhD
- 
+Bolsista de CNpQ
 
 `1997-2001`
 __BSc in Computer Science, Federal University of Rio de Janeiro (UFRJ)__
 
-Granted with undergraduate governement research scholarship (CNPq) at COPPE/UFRJ, from 2000 to 2001.
+Bolsista de iniciação científica na COPPE/UFRJ, entre 2000 e 2001
 
-## Publications
+## Tecnologias, plataformas e metodologias
 
-`2006`
-VERONESE, Gustavo Olanda; DANTAS, Alexandre Ribeiro; BARROS, Marcio de Oliveira; WERNER, Claudia. "Model Driven Game Development: Leveraging from Simulation to User Interaction Models". In: Prom Sim 2005 Special Issue in Software Process Improvement and Practice (SPIP).
+C#, C, Orientação a Objetos, M (Power Query), R (Introdutório), Sistemas distribuídos, Domain Driven
+Design (DDD), Arquiteturas em Microserviço, Design de APIs, Integração contínua, Tableau, Git, Azure
+Cloud, Kafka, Elastic Search, FIX Protocol, XML Anbima, Kanban 
 
-`2005`
-VERONESE, Gustavo Olanda; DANTAS, Alexandre; WERNER, Claudia Maria Lima. Model Support for Simulation-Based Training Games: From Behavioral Modeling to User Interactions, The 6th International Workshop on Software Process Simulation and Modeling, ProSim. Missouri, USA, May, 2005
+## Idiomas
 
-
-## Technologies, Platform & Methodologies
-
-C#, C, Java (Academic), Objected Oriented Programming,  Distributed System, Domain Driven
-Design (DDD), SQL Server, Kafka, RabbitMQ, Elastic Search, Microservices, M (Power Query), Tableau, R (Basic), CI, Git, Azure DevOps, Azure Cloud, FIX Protocol, UML, Kanban 
-
-## Languages
-
-English - Fluent
-
-Portuguese - Native 
-
-French, Spanish - Limited working proficiency
+Inglês avançado
+Francês intermediário
 
 <!-- ### Footer
 
-Last updated: December 2020 -->
+Last updated: Outubro 2020 -->
 
