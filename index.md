@@ -61,8 +61,8 @@ Cloud, Kafka, Elastic Search, FIX Protocol, XML Anbima, Kanban
 
 ## Idiomas
 
-Inglês avançado
-Francês intermediário
+- Inglês avançado
+- Francês intermediário
 
 <!-- ### Footer
 
