@@ -16,10 +16,9 @@ Rio de Janeiro, Brasil
 
 ## Professional Experience
 `Mar/2019 - now`
-__Banco Modal/Modalmais - Dev. Manager__
+__Banco Modal/Modalmais - Software Develop Manager__
 
-Modalmais is one of the first entrants into digital banking in Brazil. It has nearly $2 billions under custody, and more than 1 million clients. Leader of Risk Managament technology team, responsible for a low latency streaming pipeline that provides market and position data for the risk management team. 
-
+Modalmais is one of the first entrants into digital banking in Brazil. It has nearly $2 bn under custody, and more than 1.3 M clients. Leader of Risk Managament technology team of 11 engineers. Responsible for a low latency streaming pipeline that provides market and position data for the risk management team. 
 
 
 `2010 - Feb/2019`
