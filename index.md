@@ -5,7 +5,7 @@ title: Gustavo **Veronese**
 # Gustavo Veronese
 Rio de Janeiro, Brasil
 
-+55 21 98103 6193
+Phone +55 21 98103 6193
 
 <div id="webaddress">
 <a href="gustavo.veronese@gmail.com">gustavo.veronese@gmail.com</a>
@@ -18,21 +18,20 @@ Rio de Janeiro, Brasil
 `Mar/2019 - now`
 __Banco Modal/Modalmais - Software Development Manager__
 
-Modalmais is one of the first entrants into digital banking in Brazil. It has nearly $2 bn under custody, and more than 1.3 M clients. Leader of Risk Managament technology team of 11 engineers. Responsible for a low latency streaming pipeline that provides market and position data for the risk management team. 
+Modalmais is a digital brokerage and neobank in Brazil. It has nearly $2 bn under custody, and more than 1.5 M clients. Leader of Risk Managament technology team, composed of 16 engineers. Responsible for providing real time analytics to support risk management decision making. 
 
 
 `2010 - Feb/2019`
 __Accenture, Applied Intelligence, Senior Software Engineering Manager__
 
-Tech leader of the Risk Analytics business unit. Evolved and built decision support solutions for financial and non-financial institutions. Led the product technology team of 15 members, and was responsible for  product evolution, driving architecture decisions, write functional and technical specification, and support technical selling. Major solution clients included leading global mining company, large agribusiness trading company, and Brazil Development Bank (BNDES)
-
+Technology leader of the Risk Analytics business unit. Evolved and built decision support solutions for financial and non-financial institutions. I led the product technology team of 15 engineers, and was responsible for  product evolution, driving architecture decisions, writing functional and technical specifications, market data feed infrastructure, and support technical selling.
 
 
 `2003 - 2010`
-__RiskControl Serviços - Software Engineer, Tech Leader__
+__RiskControl Serviços - Software Engineer, Technology Leader__
 
-RiskControl developed decision support solutions for financial and risk management serving financial institutions, pension funds, insurance companies, and non-financial companies. 
-Hired as software engineer in 2003. Developed pricing and market risk models for financial instruments, such as Interest Rate Derivatives, Foreign Exchange (FX) Options. Responsible for the maintenance and evolution of the solution core, asset pricing, P&L, and integrations. Managed a team of 6 developers after 2007. The company was acquired by Accenture in 2010. 
+RiskControl was a software startup that pioneered the implementation of risk management solutions in Brazil. Hired as software engineer in 2003, promoted to Manager and Partner in 2007. Developed pricing and market risk models for financial instruments, such as Interest Rate Derivatives, Foreign Exchange (FX) Options, and Soverign Bonds. Responsible for the strategic decisions, maintenance and evolution of the software core, asset pricing, P&L, and integrations. Managed a team of 6 developers during high growth phase of startup. The company was acquired by Accenture in 2010. 
+
 
 ## Education
 
@@ -45,15 +44,17 @@ Princeton University - Bitcoin and Cryptocurrency Technologies
 
 University of Colorado - Datawarehouse Concepts, Design, and Data Integration
 
+`2012`
+__Kanban University - Lean Kaban__
 
 `2006`
 __Market Risk - BM&F Exchange Educational Institute__
 
 
-`2001-2004`
+`2001-2003`
 __MSc in Systems Egineering, COPPE, Federal University of Rio de Janeiro (UFRJ)__
-
- Granted with a governement research scholarship (CNPq) at COPPE/UFRJ under the direction of Professor Claudia Werner, PhD
+Dissertation: "Sistematizaçao do desenvolvimento de jogos de simulação para treinamento".
+Granted with a governement research scholarship (CNPq) at COPPE/UFRJ under the direction of Professor Claudia Werner, PhD
  
 
 `1997-2001`
@@ -64,10 +65,23 @@ Granted with undergraduate governement research scholarship (CNPq) at COPPE/UFRJ
 ## Publications
 
 `2006`
-VERONESE, Gustavo Olanda; DANTAS, Alexandre Ribeiro; BARROS, Marcio de Oliveira; WERNER, Claudia. "Model Driven Game Development: Leveraging from Simulation to User Interaction Models". In: Prom Sim 2005 Special Issue in Software Process Improvement and Practice (SPIP).
+VERONESE, Gustavo; DANTAS, Alexandre Ribeiro; BARROS, Marcio de Oliveira; WERNER, Claudia. "Model Driven Game Development: Leveraging from Simulation to User Interaction Models". In: Prom Sim 2005 Special Issue in Software Process Improvement and Practice (SPIP).
+
+Barros, Márcio de O; Dantas, Alexandre R; Veronese, Gustavo O; Werner, Cláudia . "Model‐driven game development: experience and model enhancements in software project management education,Software Process: Improvement and Practice,11,4,411-421,2006,Wiley Online Library
 
 `2005`
-VERONESE, Gustavo Olanda; DANTAS, Alexandre; WERNER, Claudia Maria Lima. Model Support for Simulation-Based Training Games: From Behavioral Modeling to User Interactions, The 6th International Workshop on Software Process Simulation and Modeling, ProSim. Missouri, USA, May, 2005
+VERONESE, Gustavo; DANTAS, Alexandre; WERNER, Claudia. "Model Support for Simulation-Based Training Games: From Behavioral Modeling to User Interactions, The 6th International Workshop on Software Process Simulation and Modeling", ProSim. Missouri, USA, May, 2005
+
+`2002`
+Dantas, AR; Veronese, Gustavo; Correa, AL; Xavier, José Ricardo; Werner, Claudia; "Suporte a padrões no projeto de software,"Caderno de Ferramentas do XVI Simpósio Brasileiro de Engenharia de Software, Gramado, Rio Grande do Sul, Brasil, October, 2002.
+
+VERONESE, G; Correa, A; Werner, C; JEZINI, NETTO; "ARES: Uma Ferramenta de Engenharia Reversa Java-UML,SIMPÓSIO BRASILEIRO DE ENGENHARIA DE SOFTWARE–SBES,16,,347-352,2002,
+
+`2001`
+VERONESE, G; NETTO, F; WERNER, C; CORREA, L; "Uma Ferramenta de Auxílio a Recuperação de Modelos UML de Projeto a Partir de Código Java,Revista Eletrônica de Iniciação Científica, 2001.
+
+Murta, Leonardo Gresta Paulino; Veronese, Gustavo; Werner, Cláudia Maria Lima; Janeiro-Brasil, R; ",MOR: uma ferramenta para o mapeamento objeto-relacional em Java,"Simpósio Brasileiro de Engenharia de Software (SBES), Sessão de Ferramentas",392-397,2001,
+
 
 
 ## Technologies, Platform & Methodologies
@@ -85,5 +99,5 @@ French, Spanish - Limited working proficiency
 
 <!-- ### Footer
 
-Last updated: May 2021 -->
+Last updated: July 2021 -->
 
