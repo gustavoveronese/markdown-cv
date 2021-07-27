@@ -86,8 +86,8 @@ Murta, Leonardo Gresta Paulino; Veronese, Gustavo; Werner, Cláudia Maria Lima; 
 
 ## Technologies, Platform & Methodologies
 
-C#, C, Java (Academic), Objected Oriented Programming,  Distributed System, Domain Driven
-Design (DDD), SQL Server, Kafka, RabbitMQ, Elastic Search, Microservices, M (Power Query), Tableau, R (Basic), CI, Git, Azure DevOps, Azure Cloud, FIX Protocol, UML, Agile
+C#, C, Delphi, Java (Academic), Objected Oriented Programming,  Distributed System, Domain Driven
+Design (DDD), SQL Server, Kafka, Rabbit MQ, Elastic Search, Microservices, Power Query M, Tableau, R (Introductory), CI/CD, Git, Azure DevOps, Azure Cloud, FIX Protocol, UML, C4Model, Agile
 
 ## Languages
 
