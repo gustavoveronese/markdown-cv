@@ -24,7 +24,7 @@ Modalmais is a digital brokerage and neobank in Brazil. It has nearly $2 bn unde
 `2010 - Feb/2019`
 __Accenture, Applied Intelligence, Senior Software Engineering Manager__
 
-Technology leader of the Risk Analytics business unit. Evolved and built decision support solutions for financial and non-financial institutions. I led the product technology team of 15 engineers, and was responsible for team building, mentoring, support technical selling and product developement. Directly involved in the product evolution, by driving architecture decisions, writing functional and technical specifications. Also responsible for market data feed infrastructure build and analytics visualizations features.
+Technology leader of the Risk Analytics business unit. Evolved and built decision support solutions for financial and non-financial institutions. I led the product technology team of 15 engineers, and was responsible for team building, mentoring, support technical selling and product developement. Directly involved in the product evolution, by driving architecture decisions, writing functional and technical specifications. Also responsible for market data feed infrastructure, and build analytics visualizations features.
 
 
 `2003 - 2010`
