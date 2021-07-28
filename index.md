@@ -36,7 +36,7 @@ RiskControl was a software startup that pioneered the implementation of risk man
 ## Education
 
 `2016 - 2017`
-__Coursera__
+__Coursera MOOC__
 
 Duke University - Data Visualization and Communication with Tableau
 
