@@ -31,7 +31,7 @@ Technology leader of the Risk Analytics business unit, under Management Consulti
 `2003 - 2010`
 __RiskControl Serviços - Software Engineer, Technology Leader__
 
-RiskControl was a software startup that pioneered the implementation of risk management solutions in Brazil. Hired as software engineer in 2003, promoted to Manager and Partner in 2007. Developed contract lifecycle management, pricing and market risk analytics (VaR, Stress-Testing, Back-Testing, Portfolio sensitivity) for financial instruments, such as Interest Rate Derivatives, Foreign Exchange (FX) Options, and Sovereign and Corporate Bonds. Responsible for the strategic decisions, maintenance and evolution of the software core, asset pricing, P&L, and integrations. Managed a team of 6 developers during high growth phase of startup. The company was acquired by Accenture in 2010. 
+RiskControl was a software startup that pioneered the implementation of financial risk management solutions in Brazil. Hired as software engineer in 2003, promoted to Manager and Partner in 2007. Developed contract lifecycle management, pricing and market risk analytics (VaR, Stress-Testing, Back-Testing, Portfolio sensitivity) for financial instruments, such as Interest Rate Derivatives, Foreign Exchange (FX) Options, and Sovereign and Corporate Bonds. Responsible for the strategic decisions, maintenance and evolution of the software core, asset pricing, P&L, and integrations. Managed a team of 6 developers during high growth phase of startup. The company was acquired by Accenture in 2010. 
 
 
 ## Education
