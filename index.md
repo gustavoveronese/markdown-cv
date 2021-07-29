@@ -69,9 +69,7 @@ Granted with undergraduate government research scholarship (CNPq) at COPPE/UFRJ,
 Barros, Márcio de O; Dantas, Alexandre R; Veronese, Gustavo O; Werner, Cláudia . "Model‐driven game development: experience and model enhancements in software project management education, Software Process: Improvement and Practice,11,4,411-421,2006, Wiley Online Library
 
 `2005`
-VERONESE, Gustavo; DANTAS, Alexandre; WERNER, Claudia. "Model Support for Simulation-Based Training Games: From Behavioral Modeling to User Interactions, The 6th International Workshop on Software Process Simulation and Modeling", ProSim. Missouri, USA, May 2005
-
-VERONESE, Gustavo; DANTAS, Alexandre Ribeiro; BARROS, Marcio de Oliveira; WERNER, Claudia. "Model-Driven Game Development: Leveraging from Simulation to User Interaction Models". In: Prom Sim 2005 Special Issue in Software Process Improvement and Practice (SPIP).
+VERONESE, Gustavo; DANTAS, Alexandre; WERNER, Claudia. "Model Support for Simulation-Based Training Games: Leveraging from Behavioral Modeling to User Interactions, The 6th International Workshop on Software Process Simulation and Modeling", ProSim. Missouri, USA, May, 2005
 
 `2002`
 Dantas, AR; Veronese, Gustavo; Correa, AL; Xavier, José Ricardo; Werner, Claudia; "Suporte a padrões no projeto de software,"Caderno de Ferramentas do XVI Simpósio Brasileiro de Engenharia de Software, Gramado, Rio Grande do Sul, Brasil, October, 2002.
