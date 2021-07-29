@@ -18,19 +18,20 @@ Phone +55 21 98103 6193
 `Mar/2019 - now`
 __Banco Modal/Modalmais - Software Development Manager__
 
-Modalmais is a digital brokerage and neobank in Brazil. It has nearly $2 bn under custody, and more than 1.5 M clients. Leader of Risk Managament technology team, composed of 16 engineers. Responsible for providing real time analytics to support risk management decision making. 
+Modalmais is a digital brokerage and neobank in Brazil. It has nearly $4 billion under custody, and more than 1.5 M clients. Leader of Risk Managament technology team, composed of 16 engineers. Hands-on manager and individual contributor of observability capabilities, Kafka deployment and operation, and code reviews.
+Responsible for the core authorization system, and providing real time analytics to support risk management decision making.
 
 
 `2010 - Feb/2019`
 __Accenture, Applied Intelligence, Senior Software Engineering Manager__
 
-Technology leader of the Risk Analytics business unit. Evolved and built decision support solutions for financial and non-financial institutions. I led the product technology team of 15 engineers, and was responsible for team building, mentoring, support technical selling and product developement. Directly involved in the product evolution, by driving architecture decisions, writing functional and technical specifications. Also responsible for market data feed infrastructure, and build analytics visualizations features.
+Technology leader of the Risk Analytics business unit, under Management Consulting. Evolved and built decision support solutions for financial and non-financial institutions. Led the technology team of 15 engineers, and was responsible for team building, mentoring, support technical selling and product developement. Directly involved in the product evolution, by driving architecture decisions, writing functional and technical specifications. Also responsible for market data feed infrastructure, and build analytics visualizations features.
 
 
 `2003 - 2010`
 __RiskControl Serviços - Software Engineer, Technology Leader__
 
-RiskControl was a software startup that pioneered the implementation of risk management solutions in Brazil. Hired as software engineer in 2003, promoted to Manager and Partner in 2007. Developed contract lifecycle management, pricing and market risk analytics (VaR, Stress-Testing, Back-Testing, Portfolio sensitivity) for financial instruments, such as Interest Rate Derivatives, Foreign Exchange (FX) Options, and Soverign and corporate Bonds. Responsible for the strategic decisions, maintenance and evolution of the software core, asset pricing, P&L, and integrations. Managed a team of 6 developers during high growth phase of startup. The company was acquired by Accenture in 2010. 
+RiskControl was a software startup that pioneered the implementation of risk management solutions in Brazil. Hired as software engineer in 2003, promoted to Manager and Partner in 2007. Developed contract lifecycle management, pricing and market risk analytics (VaR, Stress-Testing, Back-Testing, Portfolio sensitivity) for financial instruments, such as Interest Rate Derivatives, Foreign Exchange (FX) Options, and Sovereign and Corporate Bonds. Responsible for the strategic decisions, maintenance and evolution of the software core, asset pricing, P&L, and integrations. Managed a team of 6 developers during high growth phase of startup. The company was acquired by Accenture in 2010. 
 
 
 ## Education
