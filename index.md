@@ -19,7 +19,7 @@ Phone +55 21 98103 6193
 __Banco Modal/Modalmais - Software Development Manager__
 
 Modalmais is a digital brokerage and neobank in Brazil. It has nearly $4 billion under custody and more than 1.5 M clients. Leader of Risk Management technology team, composed of 16 engineers. Hands-on manager and individual contributor of observability capabilities, Kafka deployment and operation, and code reviews.
-Responsible for the core authorization system, and providing real time analytics to support risk management decision-making.
+Responsible for the core authorization system, and providing real-time analytics to support risk management decision-making.
 
 
 `2010 - Feb/2019`
@@ -53,30 +53,30 @@ __Market Risk - BM&F Exchange Educational Institute__
 
 
 `2001-2003`
-__MSc in Systems Egineering, COPPE, Federal University of Rio de Janeiro (UFRJ)__
+__MSc in Systems Engineering, COPPE, Federal University of Rio de Janeiro (UFRJ)__
 Dissertation: "Sistematizaçao do desenvolvimento de jogos de simulação para treinamento".
-Granted with a governement research scholarship (CNPq) at COPPE/UFRJ under the direction of Professor Claudia Werner, PhD
+Granted with a government research scholarship (CNPq) at COPPE/UFRJ under the direction of Professor Claudia Werner, PhD
  
 
 `1997-2001`
 __BSc in Computer Science, Federal University of Rio de Janeiro (UFRJ)__
 
-Granted with undergraduate governement research scholarship (CNPq) at COPPE/UFRJ, from 2000 to 2001.
+Granted with undergraduate government research scholarship (CNPq) at COPPE/UFRJ, from 2000 to 2001.
 
 ## Publications
 
 `2006`
-VERONESE, Gustavo; DANTAS, Alexandre Ribeiro; BARROS, Marcio de Oliveira; WERNER, Claudia. "Model Driven Game Development: Leveraging from Simulation to User Interaction Models". In: Prom Sim 2005 Special Issue in Software Process Improvement and Practice (SPIP).
-
-Barros, Márcio de O; Dantas, Alexandre R; Veronese, Gustavo O; Werner, Cláudia . "Model‐driven game development: experience and model enhancements in software project management education,Software Process: Improvement and Practice,11,4,411-421,2006,Wiley Online Library
+Barros, Márcio de O; Dantas, Alexandre R; Veronese, Gustavo O; Werner, Cláudia . "Model‐driven game development: experience and model enhancements in software project management education, Software Process: Improvement and Practice,11,4,411-421,2006, Wiley Online Library
 
 `2005`
-VERONESE, Gustavo; DANTAS, Alexandre; WERNER, Claudia. "Model Support for Simulation-Based Training Games: From Behavioral Modeling to User Interactions, The 6th International Workshop on Software Process Simulation and Modeling", ProSim. Missouri, USA, May, 2005
+VERONESE, Gustavo; DANTAS, Alexandre; WERNER, Claudia. "Model Support for Simulation-Based Training Games: From Behavioral Modeling to User Interactions, The 6th International Workshop on Software Process Simulation and Modeling", ProSim. Missouri, USA, May 2005
+
+VERONESE, Gustavo; DANTAS, Alexandre Ribeiro; BARROS, Marcio de Oliveira; WERNER, Claudia. "Model-Driven Game Development: Leveraging from Simulation to User Interaction Models". In: Prom Sim 2005 Special Issue in Software Process Improvement and Practice (SPIP).
 
 `2002`
 Dantas, AR; Veronese, Gustavo; Correa, AL; Xavier, José Ricardo; Werner, Claudia; "Suporte a padrões no projeto de software,"Caderno de Ferramentas do XVI Simpósio Brasileiro de Engenharia de Software, Gramado, Rio Grande do Sul, Brasil, October, 2002.
 
-VERONESE, G; Correa, A; Werner, C; JEZINI, NETTO; "ARES: Uma Ferramenta de Engenharia Reversa Java-UML,SIMPÓSIO BRASILEIRO DE ENGENHARIA DE SOFTWARE–SBES,16,,347-352,2002,
+VERONESE, G; Correa, A; Werner, C; JEZINI, NETTO; "ARES: Uma Ferramenta de Engenharia Reversa Java-UML, SIMPÓSIO BRASILEIRO DE ENGENHARIA DE SOFTWARE–SBES,16, 347-352,2 002
 
 `2001`
 VERONESE, G; NETTO, F; WERNER, C; CORREA, L; "Uma Ferramenta de Auxílio a Recuperação de Modelos UML de Projeto a Partir de Código Java,Revista Eletrônica de Iniciação Científica, 2001.
