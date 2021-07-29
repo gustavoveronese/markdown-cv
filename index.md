@@ -54,6 +54,7 @@ __Market Risk - BM&F Exchange Educational Institute__
 
 `2001-2003`
 __MSc in Systems Engineering, COPPE, Federal University of Rio de Janeiro (UFRJ)__
+
 Dissertation: "Sistematizaçao do desenvolvimento de jogos de simulação para treinamento".
 Granted with a government research scholarship (CNPq) at COPPE/UFRJ under the direction of Professor Claudia Werner, PhD
  
@@ -69,7 +70,7 @@ Granted with undergraduate government research scholarship (CNPq) at COPPE/UFRJ,
 Barros, Márcio de O; Dantas, Alexandre R; Veronese, Gustavo O; Werner, Cláudia . "Model‐driven game development: experience and model enhancements in software project management education, Software Process: Improvement and Practice,11,4,411-421,2006, Wiley Online Library
 
 `2005`
-VERONESE, Gustavo; DANTAS, Alexandre; WERNER, Claudia. "Model Support for Simulation-Based Training Games: Leveraging from Behavioral Modeling to User Interactions, The 6th International Workshop on Software Process Simulation and Modeling", ProSim. Missouri, USA, May, 2005
+VERONESE, Gustavo; DANTAS, Alexandre; WERNER, Claudia. "Model Support for Simulation-Based Training Games: Leveraging from Behavioral Modeling to User Interactions, The 6th International Workshop on Software Process Simulation and Modeling", ProSim. Missouri, USA, May 2005.
 
 `2002`
 Dantas, AR; Veronese, Gustavo; Correa, AL; Xavier, José Ricardo; Werner, Claudia; "Suporte a padrões no projeto de software,"Caderno de Ferramentas do XVI Simpósio Brasileiro de Engenharia de Software, Gramado, Rio Grande do Sul, Brasil, October, 2002.
