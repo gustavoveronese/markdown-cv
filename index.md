@@ -43,9 +43,7 @@ I was admitted as software engineer in 2003, and developed pricing and market ri
 __Coursera__
 
 * Duke University - Data Visualization and Communication with Tableau
-
 * Princeton University - Bitcoin and Cryptocurrency Technologies
-
 * University of Colorado - Datawarehouse Concepts, Design, and Data Integration
 
 `2006`
