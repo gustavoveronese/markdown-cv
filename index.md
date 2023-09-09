@@ -23,7 +23,7 @@ CloudWatch is Amazon Web Services (AWS) monitoring and observability suite, desi
 `Mar/2019 - Jan/2021`
 __Banco Modal/Modalmais - Dev. Manager__
 
-Modalmais is one of the first entrants into digital banking in Brazil. It has nearly $2 billions under custody, and more than 1 million clients. Leader of Risk Managament tecnhology group, responsible for the data infrastructure pipeline the provides low latency data for the risk management customer team. Managed 4 teams, with a total of 20 Software Engineers. 
+Modalmais is one of the first entrants into digital banking in Brazil. It has nearly $2 billions under custody, and more than 1 million clients. Leader of Risk Managament tecnhology group, responsible for the data infrastructure pipeline the provides low latency data for the risk management customer team. Managed 4 teams, including a low latency data infrastructure team and 3 front end teams, with a total of 20 Software Engineers. 
 
 `2010 - Feb/2019`
 __Accenture, Applied Intelligence, Senior Software Engineering Manager__
