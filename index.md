@@ -3,9 +3,9 @@ layout: cv
 title: Gustavo Veronese
 ---
 # Gustavo Veronese
-Rio de Janeiro, Brasil
+Dublin, Ireland
 
-+55 21 98103 6193
++353 083 027 9430
 
 <div id="webaddress">
 <a href="gustavo.veronese@gmail.com">gustavo.veronese@gmail.com</a>
@@ -13,10 +13,17 @@ Rio de Janeiro, Brasil
 
 
 ## Professional Experience
-`Mar/2019 - now`
+
+`Jan/2021 - now`
+__Amazon Web Services (AWS)/CloudWatch - Software Dev. Manager__
+
+CloudWatch is a vital component of Amazon Web Services' (AWS) monitoring and observability suite, designed to empower AWS users with real-time insights into the health and performance of their cloud resources. It allows users to set up automated alarms based on customizable thresholds, enabling rapid response to potential issues and ensuring optimal operational efficiency within the AWS ecosystem. As a Senior Development Manager (SDM) at AWS, I lead a team of 9 talented engineers responsible for the development and enhancement of internal monitoring tools and the critically important AWS service, CloudWatch Alarms. With a focus on hiring, coaching, and promotion, I've successfully contributed to team growth in a short time window, and spearheaded the launch of multiple senior team goals. My dedication to fostering growth, innovation, and excellence within the team has driven our continuous improvement in delivering top-tier cloud monitoring solutions.
+
+
+`Mar/2019 - Jan/2021`
 __Banco Modal/Modalmais - Dev. Manager__
 
-Modalmais is one of the first entrants into digital banking in Brazil. It has nearly $2 billions under custody, and more than 1 million clients. Leader of Risk Managament tecnhology team, responsible for the data infrastructure pipeline the provides low latency data for the risk management team. 
+Modalmais is one of the first entrants into digital banking in Brazil. It has nearly $2 billions under custody, and more than 1 million clients. Leader of Risk Managament tecnhology group, responsible for the data infrastructure pipeline the provides low latency data for the risk management customer team. Managed 4 teams, with a total of 20 Software Engineers. 
 
 `2010 - Feb/2019`
 __Accenture, Applied Intelligence, Senior Software Engineering Manager__
