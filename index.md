@@ -1,93 +1,71 @@
 ---
 layout: cv
-title: Gustavo **Veronese**
+title: Gustavo Veronese
 ---
 # Gustavo Veronese
-Rio de Janeiro, Brasil
+Dublin, Ireland
 
-Phone +55 21 98103 6193
++353 083 027 9430
 
 <div id="webaddress">
 <a href="gustavo.veronese@gmail.com">gustavo.veronese@gmail.com</a>
-| <a href="https://linkedin.com/in/gustavoveronese">linkedin.com/in/gustavoveronese/</a>
-
 </div>
 
 
 ## Professional Experience
-`Mar/2019 - now`
-__Banco Modal/Modalmais - Software Development Manager__
 
-Modalmais is a digital brokerage and neobank in Brazil. It has nearly $4 billion under custody and more than 1.5 M clients. Leader of Risk Management technology team, composed of 16 engineers. Hands-on manager and individual contributor of observability capabilities, Kafka deployment and operation, and code reviews.
-Responsible for the core authorization system, and providing real-time analytics to support risk management decision-making.
+`Jan/2021 - now`
+__Amazon Web Services (AWS)/CloudWatch - Software Dev. Manager__
 
+CloudWatch is Amazon Web Services (AWS) monitoring and observability suite, designed to empower AWS users with real-time insights into the health and performance of their cloud resources. CloudWatch Alarms is a vital component of CloudWatch that allows users to set up automated alarms based on customizable thresholds, enabling rapid response to potential issues and ensuring optimal operational efficiency within the AWS ecosystem. As a Senior Development Manager (SDM) at AWS, I lead a team of 9 talented engineers responsible for the development and enhancement of internal monitoring tools and CloudWatch Alarms. With a focus on hiring, coaching, and promotion, I've successfully contributed to team growth in a short time window, and spearheaded the launch of multiple senior team goals. My dedication to fostering growth, innovation, and excellence within the team has driven our continuous improvement in delivering top-tier cloud monitoring solutions.
+
+
+`Mar/2019 - Jan/2021`
+__Banco Modal/Modalmais - Dev. Manager__
+
+Modalmais is one of the first entrants into digital banking in Brazil. It has nearly $2 billions under custody, and more than 1 million clients. Leader of Risk Managament tecnhology group, responsible for the data infrastructure pipeline the provides low latency data for the risk management customer team. Managed 4 teams, with a total of 20 Software Engineers. 
 
 `2010 - Feb/2019`
 __Accenture, Applied Intelligence, Senior Software Engineering Manager__
 
-Technology leader of the Risk Analytics business unit, under Management Consulting. Evolved and built decision-support solutions for financial and non-financial institutions. Led the technology team of 15 engineers, and was responsible for team building, mentoring, support technical selling and product development. Directly involved in strategic decisions concerning product evolution. Responsible for driving architecture decisions, writing functional and technical specifications. In charge of market data feed infrastructure, and build analytics visualizations features. Delivered projects for a variety of mid to large size companies in financial services,mining, and energy sectors.
+Tech leader of Risk Analytics business unit. Evolved and built decision support solutions for financial and non financial institutions. Led the product technology team of 15 members, and was responsible for  product evolution, drive architecture decisions, and support technical selling.
 
 
 `2003 - 2010`
-__RiskControl Serviços - Software Engineer, Technology Leader__
+__RiskControl Serviços - Software Engineer, Tech Leader__
 
-RiskControl was a software startup that pioneered the implementation of financial risk management solutions in Brazil. Hired as a software engineer in 2003, promoted to Manager and Partner in 2007. Developed contract lifecycle management, audit trail, pricing, and market risk analytics (VaR, Stress-Testing, Back-Testing, Portfolio sensitivity) for financial instruments, such as Interest Rate Derivatives, Foreign Exchange (FX) Options, and Sovereign and Corporate Bonds. Responsible for maintenance and evolution of the software core, asset pricing, P&L, and integrations. Implemented software lifecycle management tools (Bug tracking, Version Control, Continuous Delivery). Managed a team of 6 developers during the high growth phase of startup. The company was acquired by Accenture in 2010. 
-
+RiskControl developed decision support solutions for financial and risk management serving financial institutions, pension funds, insurance companies and non-financial companies. 
+I was admitted as software engineer in 2003, and developed pricing and market risk models for financial instruments, such as Interest Rate Derivatives, Foreign Exchange (FX) Options. Responsible for the maintenance and evolution of the solution core, asset pricing, P&L, and integrations. Managed a team of 6 developers after 2007. The company was acquired by Accenture in 2010. 
 
 ## Education
 
 `2016 - 2017`
-__Coursera MOOC__
+__Coursera__
 
-Duke University - Data Visualization and Communication with Tableau
+* Duke University - Data Visualization and Communication with Tableau
 
-Princeton University - Bitcoin and Cryptocurrency Technologies
+* Princeton University - Bitcoin and Cryptocurrency Technologies
 
-University of Colorado - Datawarehouse Concepts, Design, and Data Integration
-
-`2012`
-__Kanban University - Lean Kaban__
+* University of Colorado - Datawarehouse Concepts, Design, and Data Integration
 
 `2006`
 __Market Risk - BM&F Exchange Educational Institute__
 
+`2001-2004`
+__MSc in Systems Egineering, COPPE, Federal University of Rio de Janeiro (UFRJ)__
 
-`2001-2003`
-__MSc in Systems Engineering, COPPE, Federal University of Rio de Janeiro (UFRJ)__
-
-Dissertation: "Sistematizaçao do desenvolvimento de jogos de simulação para treinamento".
-Granted with a government research scholarship (CNPq) at COPPE/UFRJ under the direction of Professor Claudia Werner, PhD
+ Granted with a government research scholarship (CNPq) at COPPE/UFRJ under the direction of Professor Claudia Werner, PhD
  
 
 `1997-2001`
 __BSc in Computer Science, Federal University of Rio de Janeiro (UFRJ)__
 
-Granted with undergraduate government research scholarship (CNPq) at COPPE/UFRJ, from 2000 to 2001.
-
-## Publications
-
-`2006`
-Barros, Márcio de O; Dantas, Alexandre R; Veronese, Gustavo O; Werner, Cláudia . "Model‐driven game development: experience and model enhancements in software project management education, Software Process: Improvement and Practice,11,4,411-421,2006, Wiley Online Library
-
-`2005`
-VERONESE, Gustavo; DANTAS, Alexandre; WERNER, Claudia. "Model Support for Simulation-Based Training Games: Leveraging from Behavioral Modeling to User Interactions, The 6th International Workshop on Software Process Simulation and Modeling", ProSim. Missouri, USA, May 2005.
-
-`2002`
-Dantas, AR; Veronese, Gustavo; Correa, AL; Xavier, José Ricardo; Werner, Claudia; "Suporte a padrões no projeto de software,"Caderno de Ferramentas do XVI Simpósio Brasileiro de Engenharia de Software, Gramado, Rio Grande do Sul, Brasil, October, 2002.
-
-VERONESE, G; Correa, A; Werner, C; JEZINI, NETTO; "ARES: Uma Ferramenta de Engenharia Reversa Java-UML, SIMPÓSIO BRASILEIRO DE ENGENHARIA DE SOFTWARE–SBES,16, 347-352,2 002
-
-`2001`
-VERONESE, G; NETTO, F; WERNER, C; CORREA, L; "Uma Ferramenta de Auxílio a Recuperação de Modelos UML de Projeto a Partir de Código Java,Revista Eletrônica de Iniciação Científica, 2001.
-
-Murta, Leonardo Gresta Paulino; Veronese, Gustavo; Werner, Cláudia Maria Lima; Janeiro-Brasil, R; ",MOR: uma ferramenta para o mapeamento objeto-relacional em Java,"Simpósio Brasileiro de Engenharia de Software (SBES), Sessão de Ferramentas",392-397,2001,
-
-
+Undergraduate research scholarship (CCNPq) at COPPE/UFRJ, from 2000 to 2001.
 
 ## Technologies, Platform & Methodologies
 
-C#, C, Delphi, Java (Academic), Objected Oriented Programming,  Distributed System, Domain Driven
-Design (DDD), SQL Server, Kafka, Rabbit MQ, Elastic Search, Microservices, Power Query M, Tableau, R (Introductory), CI/CD, Git, Azure DevOps, Azure Cloud, FIX Protocol, UML, C4Model, Agile
+C#, C, Java (Academic), Objected Oriented Programming,  Distributed System, Domain Driven
+Design (DDD), SQL Server, Kafka, RabbitMQ, Elastic Search, Microservices, M (Power Query), Tableau, R (Basic), CI, Git, Azure DevOps, Azure Cloud, FIX Protocol, UML, Kanban 
 
 ## Languages
 
@@ -99,5 +77,5 @@ French, Spanish - Limited working proficiency
 
 <!-- ### Footer
 
-Last updated: July 2021 -->
+Last updated: December 2020 -->
 
