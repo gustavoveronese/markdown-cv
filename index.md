@@ -14,18 +14,18 @@ Dublin, Ireland
 
 ## Professional Experience
 
-`Jan/2021 - now`
+`Jan/2021-now`
 __Amazon Web Services (AWS)/CloudWatch - Software Dev. Manager__
 
-CloudWatch is Amazon Web Services (AWS) monitoring and observability suite, designed to empower AWS users with real-time insights into the health and performance of their cloud resources. CloudWatch Alarms is a vital component of CloudWatch that allows users to set up automated alarms based on customizable thresholds, enabling rapid response to potential issues and ensuring optimal operational efficiency within the AWS ecosystem. As a Senior Development Manager (SDM) at AWS, I lead a team of 9 talented engineers responsible for the development and enhancement of internal monitoring tools and CloudWatch Alarms. With a focus on hiring, coaching, and promotion, I've successfully contributed to team growth in a short time window, and spearheaded the launch of multiple senior team goals. My dedication to fostering growth, innovation, and excellence within the team has driven our continuous improvement in delivering top-tier cloud monitoring solutions.
+As a Software Development Manager (SDM) at AWS, I lead a team of nine engineers responsible for the development and enhancement of internal monitoring tools and CloudWatch Alarms. With a focus on hiring, coaching, and promotion, I've successfully contributed to team growth in a short time window, and lead the launch of internal and external featuresincluding senior team goals. Notable accomplishments include leading accessibility enhancements and improving operational resilience through strategic collaborations. My dedication to fostering growth, innovation, and excellence within the team has driven our continuous improvement in delivering top-tier cloud monitoring solutions.
 
 
-`Mar/2019 - Jan/2021`
+`Mar/2019-Jan/2021`
 __Banco Modal/Modalmais - Dev. Manager__
 
 Modalmais is one of the first entrants into digital banking in Brazil. It has nearly $2 billions under custody, and more than 1 million clients. Leader of Risk Managament tecnhology group, responsible for the data infrastructure pipeline the provides low latency data for the risk management customer team. Managed 4 teams, including a low latency data infrastructure team and 3 front end teams, with a total of 20 Software Engineers. 
 
-`2010 - Feb/2019`
+`2010-Feb/2019`
 __Accenture, Applied Intelligence, Senior Software Engineering Manager__
 
 Tech leader of Risk Analytics business unit. Evolved and built decision support solutions for financial and non financial institutions. Led the product technology team of 15 members, and was responsible for  product evolution, drive architecture decisions, and support technical selling.
