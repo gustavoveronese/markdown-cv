@@ -32,13 +32,13 @@ Led efforts that positevely impacted NPS scores, by improving resiliency of inst
 `2010-Feb/2019`
 __Accenture, Applied Intelligence, Senior Software Engineering Manager, Brazil__
 
-Tech leader of Risk Analytics business unit. Evolved and built decision support solutions for financial and non financial institutions. Led the product technology team of 15 software and financial engineers, and was responsible for  product evolution, drive major architecture overhauls, implemented process agile improvements and supported technical selling for large clients, such as Banco Itaú, Anbima, BNDES, and Vale, to mention a few.
+Tech leader of Risk Analytics business unit. Evolved and built decision support solutions for financial and non financial institutions. Led the product technology team of 15 software and financial engineers, and was responsible for  product evolution, drive major design overhauls, moving the architecture to the cloud, implemented process agile improvements and supported technical selling for large clients, such as Banco Itaú, Anbima, BNDES, and Vale, to mention a few.
 
 `2003 - 2010`
 __RiskControl Serviços - Software Engineer, Tech Leader, Brazil__
 
-As a Software Engineer, I developed decision support solutions for financial services institutions to help manage balance-sheet exposure to market risk factors such as fluctuations in interest rates, foreign exchange rates, stock prices, indexes or commodities prices. My primary role involved implementation of pricing and market risk models for financial instruments, such as Interest Rate Derivatives, Foreign Exchange (FX) Options.
-Responsible for the maintenance and evolution of the solution core, asset pricing, P&L, and integrations. Managed a team of 6 developers from 2007. The company was acquired by Accenture in 2010 ([announcement](https://newsroom.accenture.com/news/2010/accenture-acquires-riskcontrol-rio-based-risk-management-company-adding-end-to-end-software-solution-to-its-risk-offerings)). 
+As a Software Engineer, I developed decision support solutions for financial services institutions to help manage balance-sheet exposure to market risk factors such as fluctuations in interest rates, foreign exchange rates, stock prices, indexes or commodities prices. I implemented pricing and market risk models for financial instruments, such as Bonds, Interest Rate Derivatives, and Foreign Exchange (FX) Options.
+Responsible for the maintenance and evolution of the solution core, asset pricing, P&L, and integrations. As main technologies, worked in C, C#, Delphi, and SQL Server. Managed a team of 6 developers from 2007. The company was acquired by Accenture in 2010 ([announcement](https://newsroom.accenture.com/news/2010/accenture-acquires-riskcontrol-rio-based-risk-management-company-adding-end-to-end-software-solution-to-its-risk-offerings)). 
 
 ## Education
 
