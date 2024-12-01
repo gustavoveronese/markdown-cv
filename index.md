@@ -22,14 +22,14 @@ As a Software Development Manager (SDM) at AWS, I lead a team of nine engineers 
 I define technical vision, design solutions, and develop quarterly and annual strategic plans while managing stakeholders and cross-functional engineering efforts. Focused on team growth, I create onboarding plans, conduct 1:1 coaching, and foster career development, resulting in five engineer promotions in 2.5 years.
 
 
-`Mar/2019-Jan/2021`
+`Mar/2019-Jan/21`
 __[Modalmais](https://www.modalmais.com.br/) - Engeneering Lead, Brazil__
 
 Modalmais was a pioneer digital banking in Brazil. In 2021, it had nearly $2 billion USD under custody, and more than 1 million customers. I was engeneering leader of Risk Managament tecnhology group, responsible for the data infrastructure pipeline the provides low latency backbone consumed by data science and risk management teams. Managed 4 distributed teams, including a low latency data infrastructure team and frontend teams, with a total of 20 Software Engineers. I implemented integrations with Vendor platforms using C#, Kafka, KSQL and RabbitMQ for Derivatives transactions, directly influenced architectural decisions,implemented observability controls using ElasticSearch and Kibana and  managed projects and communication with stakeholders.
 
 Led efforts that positively impacted NPS scores, by improving resiliency of instant-payment integration (PIX). Collaborated cross-functionally to identify root causes, including legacy code inefficiencies and undocumented features. Developed and implemented a structured mitigation plan with minimal system investment, including enhanced logging, UI adjustments, and operational changes. Established comprehensive documentation and incident knowledge bases.
 
-`2010-Feb/2019`
+`2010 - Feb/2019`
 __Accenture, Applied Intelligence, Senior Software Engineering Manager, Brazil__
 
 Tech leader of Risk Analytics business unit. Evolved and built decision support solutions for financial and non financial institutions. Implemented Data Visualization focusing on risk and performance of financial portfolios using Tableau. Led the product technology team of 15 software and financial engineers, and was responsible for  product evolution, driving major design overhauls, moving the architecture from a monotith to the cloud, implemented process agile improvement, team coordination, product backlog management
