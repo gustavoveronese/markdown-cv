@@ -38,7 +38,7 @@ Tech leader of Risk Analytics business unit. Evolved and built decision support 
 __RiskControl Serviços - Software Engineer, Tech Leader, Brazil__
 
 As a Software Engineer, I developed decision support solutions for financial services institutions to help manage balance-sheet exposure to market risk factors such as fluctuations in interest rates, foreign exchange rates, stock prices, indexes or commodities prices. I implemented pricing and market risk models for financial instruments, such as Bonds, Interest Rate Derivatives, and Foreign Exchange (FX) Options.
-Responsible for the maintenance and evolution of the solution core, asset pricing, P&L, and integrations. As main technologies, worked in C, C#, Delphi, and SQL Server. Managed a team of 6 developers from 2007. The company was acquired by Accenture in 2010 ([announcement](https://newsroom.accenture.com/news/2010/accenture-acquires-riskcontrol-rio-based-risk-management-company-adding-end-to-end-software-solution-to-its-risk-offerings)). 
+Responsible for the maintenance and evolution of the solution core, asset pricing, P&L, and integrations. As main technologies, worked in C, C#, Delphi, COM+, MySQL and SQL Server. Implemented version control systems and bug reproting tool. Managed a team of 6 developers from 2007. The company was acquired by Accenture in 2010 ([announcement](https://newsroom.accenture.com/news/2010/accenture-acquires-riskcontrol-rio-based-risk-management-company-adding-end-to-end-software-solution-to-its-risk-offerings)). 
 
 ## Education
 
