@@ -17,10 +17,7 @@ Dublin, Ireland
 `Jan/2021-now`
 __Amazon Web Services (AWS)/CloudWatch - Software Dev. Manager - Dublin, Ireland__
 
-As a Software Development Manager (SDM) at AWS, I lead a team of nine engineers responsible for the development and enhancement of internal monitoring tools and CloudWatch Alarms. With a focus on hiring, coaching, and promotion, I've successfully contributed to team growth in a short time window, and lead the delivery of internal and external features including senior team goals and re:Invent launches. Notable accomplishments include leading accessibility enhancements and improving operational resilience through strategic collaborations. I drove products internal roadmaps, cconducted regular collection of customer feedbacks, continuously monitored team health working closely with Product Managers, UX Designers and SDMs from mutiple teams. Drove Operational improvements.
-
-I define the technical vision, design solutions, and create quarterly and annual strategic plans. I manage stakeholders, drive cross-functional engineering efforts, and manage enterprise-wide initiatives, coach engineers through 1-1s, facilitate career growth, and promote best practices, growing engineers in five promotions in two and a half years.
-
+As a Software Development Manager at AWS, I lead a team of nine engineers responsible for developing and enhancing internal monitoring tools and CloudWatch Alarms. I drive product roadmaps, gather customer feedback, and collaborate with Product Managers, UX Designers, and SDMs across teams to deliver impactful internal and external features, including re:Invent launches. Highlights include accessibility improvements and operational resilience enhancements. I define technical visions, design solutions, and execute strategic plans while managing stakeholders and enterprise-wide initiatives. With a strong focus on hiring, coaching, and career growth, I’ve guided five engineers to promotions within two and a half years, established onboarding plans, and fostered a high-performing team environment. 
 
 `Mar/2019-Jan/2021`
 __Banco Modal/[Modalmais](https://www.modalmais.com.br/) - Engeneering Lead, Brazil__
