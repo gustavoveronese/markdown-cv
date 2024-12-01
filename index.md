@@ -39,7 +39,7 @@ and supported technical selling for large clients, such as Banco Itaú, Anbima, 
 __RiskControl Serviços - Software Engineer, Tech Leader, Brazil__
 
 As a Software Engineer during the high growth phase of the start up, I developed decision support solutions for financial services institutions to help manage balance-sheet exposure to market risk factors such as fluctuations in interest rates, foreign exchange rates, stock prices, indexes or commodities prices. I implemented pricing and market risk models for financial instruments, such as Bonds, Interest Rate Derivatives, and Foreign Exchange (FX) Options.
-Responsible for the maintenance and evolution of the solution core, asset pricing, P&L, and integrations. As main technologies, worked in C, C#, Delphi, COM+, MySQL and SQL Server. Implemented version control systems and bug reproting tool. Managed a team of 6 developers from 2007. The company was acquired by Accenture in 2010 ([announcement](https://newsroom.accenture.com/news/2010/accenture-acquires-riskcontrol-rio-based-risk-management-company-adding-end-to-end-software-solution-to-its-risk-offerings)). 
+Responsible for the maintenance and evolution of the solution core, asset pricing, P&L, and integrations. As main technologies, worked in C, C#, Delphi, COM+, MySQL and SQL Server. Implemented version control systems and bug reproting tool. Promoted to Manager and Partner in 2007, led a team of 6 developers from 2007. The company was acquired by Accenture in 2010 ([announcement](https://newsroom.accenture.com/news/2010/accenture-acquires-riskcontrol-rio-based-risk-management-company-adding-end-to-end-software-solution-to-its-risk-offerings)). 
 
 ## Education
 
@@ -56,7 +56,7 @@ __Market Risk - BM&F Exchange Educational Institute__
 `2001-2004`
 __MSc in Systems Egineering, COPPE, Federal University of Rio de Janeiro (UFRJ)__
 
- Granted with a government research scholarship (CNPq) at COPPE/UFRJ under the direction of Professor Claudia Werner, PhD
+ Granted with a government research scholarship (CNPq) at COPPE/UFRJ ([research project](https://pesc.coppe.ufrj.br/index.php/pt-BR/publicacoes-pesquisa/details/15/2080)).
  
 
 `1997-2001`
