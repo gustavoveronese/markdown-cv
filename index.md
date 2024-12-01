@@ -15,24 +15,26 @@ Dublin, Ireland
 ## Professional Experience
 
 `Jan/2021-now`
-__Amazon Web Services (AWS)/CloudWatch - Software Dev. Manager__
+__Amazon Web Services (AWS)/CloudWatch - Software Dev. Manager - Dublin, Ireland__
 
 As a Software Development Manager (SDM) at AWS, I lead a team of nine engineers responsible for the development and enhancement of internal monitoring tools and CloudWatch Alarms. With a focus on hiring, coaching, and promotion, I've successfully contributed to team growth in a short time window, and lead the launch of internal and external featuresincluding senior team goals. Notable accomplishments include leading accessibility enhancements and improving operational resilience through strategic collaborations. My dedication to fostering growth, innovation, and excellence within the team has driven our continuous improvement in delivering top-tier cloud monitoring solutions.
 
 
 `Mar/2019-Jan/2021`
-__Banco Modal/Modalmais - Dev. Manager__
+__Banco Modal/Modalmais - Engeneering Lead, Brazil__
 
-Modalmais is one of the first entrants into digital banking in Brazil. It has nearly $2 billions under custody, and more than 1 million clients. Leader of Risk Managament tecnhology group, responsible for the data infrastructure pipeline the provides low latency data for the risk management customer team. Managed 4 teams, including a low latency data infrastructure team and 3 front end teams, with a total of 20 Software Engineers. 
+Modalmais was a pioneer digital banking in Brazil. In 2021, it had nearly $2 billion USD under custody, and more than 1 million customers. I was engeneering leader of Risk Managament tecnhology group, responsible for the data infrastructure pipeline the provides low latency backbone consumed by data science and risk management teams. Managed 4 distributed teams, including a low latency data infrastructure team and frontend teams, with a total of 20 Software Engineers. I implemented integrations with Vendor platforms using C# and KSQL for Derivatives transactions, directly influenced architectural decisions,implemented observability controls using ElasticSearch and Kibana and  managed projects and communication with stakeholders.
+
+Led efforts that positevely impacted NPS scores, by improving resiliency of instant-payment integration (PIX). Collaborated cross-functionally to identify root causes, including legacy code inefficiencies and undocumented features. Developed and implemented a structured mitigation plan with minimal system investment, including enhanced logging, UI adjustments, and operational changes. Established comprehensive documentation and incident knowledge bases.
 
 `2010-Feb/2019`
-__Accenture, Applied Intelligence, Senior Software Engineering Manager__
+__Accenture, Applied Intelligence, Senior Software Engineering Manager, Brazil__
 
-Tech leader of Risk Analytics business unit. Evolved and built decision support solutions for financial and non financial institutions. Led the product technology team of 15 members, and was responsible for  product evolution, drive architecture decisions, and support technical selling.
+Tech leader of Risk Analytics business unit. Evolved and built decision support solutions for financial and non financial institutions. Led the product technology team of 15 engineers, and was responsible for  product evolution, drive architecture decisions, and support technical selling.
 
 
 `2003 - 2010`
-__RiskControl Serviços - Software Engineer, Tech Leader__
+__RiskControl Serviços - Software Engineer, Tech Leader, Brazil__
 
 RiskControl developed decision support solutions for financial and risk management serving financial institutions, pension funds, insurance companies and non-financial companies. 
 I was admitted as software engineer in 2003, and developed pricing and market risk models for financial instruments, such as Interest Rate Derivatives, Foreign Exchange (FX) Options. Responsible for the maintenance and evolution of the solution core, asset pricing, P&L, and integrations. Managed a team of 6 developers after 2007. The company was acquired by Accenture in 2010. 
