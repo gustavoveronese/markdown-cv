@@ -27,12 +27,13 @@ __Banco Modal/[Modalmais](https://www.modalmais.com.br/) - Engeneering Lead, Bra
 
 Modalmais was a pioneer digital banking in Brazil. In 2021, it had nearly $2 billion USD under custody, and more than 1 million customers. I was engeneering leader of Risk Managament tecnhology group, responsible for the data infrastructure pipeline the provides low latency backbone consumed by data science and risk management teams. Managed 4 distributed teams, including a low latency data infrastructure team and frontend teams, with a total of 20 Software Engineers. I implemented integrations with Vendor platforms using C#, Kafka, KSQL and RabbitMQ for Derivatives transactions, directly influenced architectural decisions,implemented observability controls using ElasticSearch and Kibana and  managed projects and communication with stakeholders.
 
-Led efforts that positevely impacted NPS scores, by improving resiliency of instant-payment integration (PIX). Collaborated cross-functionally to identify root causes, including legacy code inefficiencies and undocumented features. Developed and implemented a structured mitigation plan with minimal system investment, including enhanced logging, UI adjustments, and operational changes. Established comprehensive documentation and incident knowledge bases.
+Led efforts that positively impacted NPS scores, by improving resiliency of instant-payment integration (PIX). Collaborated cross-functionally to identify root causes, including legacy code inefficiencies and undocumented features. Developed and implemented a structured mitigation plan with minimal system investment, including enhanced logging, UI adjustments, and operational changes. Established comprehensive documentation and incident knowledge bases.
 
 `2010-Feb/2019`
 __Accenture, Applied Intelligence, Senior Software Engineering Manager, Brazil__
 
-Tech leader of Risk Analytics business unit. Evolved and built decision support solutions for financial and non financial institutions. Led the product technology team of 15 software and financial engineers, and was responsible for  product evolution, drive major design overhauls, moving the architecture to the cloud, implemented process agile improvements and supported technical selling for large clients, such as Banco Itaú, Anbima, BNDES, and Vale, to mention a few.
+Tech leader of Risk Analytics business unit. Evolved and built decision support solutions for financial and non financial institutions. Led the product technology team of 15 software and financial engineers, and was responsible for  product evolution, driving major design overhauls, moving the architecture from a monotith to the cloud, implemented process agile improvement, team coordination, product backlog management
+and supported technical selling for large clients, such as Banco Itaú, Anbima, BNDES, and Vale, to mention a few.
 
 `2003 - 2010`
 __RiskControl Serviços - Software Engineer, Tech Leader, Brazil__
