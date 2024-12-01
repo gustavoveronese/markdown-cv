@@ -17,7 +17,9 @@ Dublin, Ireland
 `Jan/2021-now`
 __Amazon Web Services (AWS)/CloudWatch - Software Dev. Manager - Dublin, Ireland__
 
-As a Software Development Manager (SDM) at AWS, I lead a team of nine engineers responsible for the development and enhancement of internal monitoring tools and CloudWatch Alarms. With a focus on hiring, coaching, and promotion, I've successfully contributed to team growth in a short time window, and lead the delivery of internal and external features including senior team goals and re:Invent launches. Notable accomplishments include leading accessibility enhancements and improving operational resilience through strategic collaborations. My dedication to fostering growth, innovation, and excellence within the team has driven our continuous improvement in delivering top-tier cloud monitoring solutions.
+As a Software Development Manager (SDM) at AWS, I lead a team of nine engineers responsible for the development and enhancement of internal monitoring tools and CloudWatch Alarms. With a focus on hiring, coaching, and promotion, I've successfully contributed to team growth in a short time window, and lead the delivery of internal and external features including senior team goals and re:Invent launches. Notable accomplishments include leading accessibility enhancements and improving operational resilience through strategic collaborations. I drove products internal roadmaps, cconducted regular collection of customer feedbacks, continuously monitored team health working closely with Product Managers, UX Designers and SDMs from mutiple teams. Drove Operational improvements.
+
+I define the technical vision, design solutions, and create quarterly and annual strategic plans. I manage stakeholders, drive cross-functional engineering efforts, and manage enterprise-wide initiatives, coach engineers through 1-1s, facilitate career growth, and promote best practices, growing engineers in five promotions in two and a half years.
 
 
 `Mar/2019-Jan/2021`
