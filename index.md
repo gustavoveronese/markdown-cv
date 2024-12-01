@@ -21,7 +21,7 @@ As a Software Development Manager (SDM) at AWS, I lead a team of nine engineers 
 
 
 `Mar/2019-Jan/2021`
-__Banco Modal/Modalmais - Engeneering Lead, Brazil__
+__Banco Modal/[Modalmais](https://www.modalmais.com.br/) - Engeneering Lead, Brazil__
 
 Modalmais was a pioneer digital banking in Brazil. In 2021, it had nearly $2 billion USD under custody, and more than 1 million customers. I was engeneering leader of Risk Managament tecnhology group, responsible for the data infrastructure pipeline the provides low latency backbone consumed by data science and risk management teams. Managed 4 distributed teams, including a low latency data infrastructure team and frontend teams, with a total of 20 Software Engineers. I implemented integrations with Vendor platforms using C#, Kafka, KSQL and RabbitMQ for Derivatives transactions, directly influenced architectural decisions,implemented observability controls using ElasticSearch and Kibana and  managed projects and communication with stakeholders.
 
