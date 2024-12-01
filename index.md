@@ -19,7 +19,9 @@ __Amazon Web Services (AWS)/CloudWatch - Software Dev. Manager - Dublin, Ireland
 
 As a Software Development Manager (SDM) at AWS, I lead a team of nine engineers focused on developing and enhancing internal monitoring tools and CloudWatch Alarms. I manage product roadmaps, gather customer feedback, and collaborate closely with Product Managers, UX Designers, and SDMs across teams. My responsibilities include delivering internal and external features, and improving operational resilience. I´ve written and contributed to Correction of Errors procedures, and organize cross-team game days for peak event readiness.
 
-I define technical vision, design solutions, and develop quarterly and annual strategic plans while managing stakeholders and cross-functional engineering efforts. Focused on team growth, I create onboarding plans, conduct 1:1 coaching, and foster career development, resulting in five engineer promotions in 2.5 years. 
+I define technical vision, design solutions, and develop quarterly and annual strategic plans while managing stakeholders and cross-functional engineering efforts. Focused on team growth, I create onboarding plans, conduct 1:1 coaching, and foster career development, resulting in five engineer promotions in 2.5 years.
+
+
 `Mar/2019-Jan/2021`
 __Banco Modal/[Modalmais](https://www.modalmais.com.br/) - Engeneering Lead, Brazil__
 
