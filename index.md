@@ -32,7 +32,7 @@ Led efforts that positively impacted NPS scores, by improving resiliency of inst
 `2010-Feb/2019`
 __Accenture, Applied Intelligence, Senior Software Engineering Manager, Brazil__
 
-Tech leader of Risk Analytics business unit. Evolved and built decision support solutions for financial and non financial institutions. Led the product technology team of 15 software and financial engineers, and was responsible for  product evolution, driving major design overhauls, moving the architecture from a monotith to the cloud, implemented process agile improvement, team coordination, product backlog management
+Tech leader of Risk Analytics business unit. Evolved and built decision support solutions for financial and non financial institutions. Implemented Data Visualization focusing on risk and performance of financial portfolios using Tableau. Led the product technology team of 15 software and financial engineers, and was responsible for  product evolution, driving major design overhauls, moving the architecture from a monotith to the cloud, implemented process agile improvement, team coordination, product backlog management
 and supported technical selling for large clients, such as Banco Itaú, Anbima, BNDES, and Vale, to mention a few.
 
 `2003 - 2010`
