@@ -60,7 +60,7 @@ __Coursera__
 __Market Risk - BM&F Exchange Educational Institute__
 
 `2001-2004`
-__MSc in Systems Egineering, COPPE, Federal University of Rio de Janeiro (UFRJ)__
+__MSc in Systems Engineering, COPPE, Federal University of Rio de Janeiro (UFRJ)__
 
  Granted with a government research scholarship (CNPq) at COPPE/UFRJ ([research project](https://pesc.coppe.ufrj.br/index.php/pt-BR/publicacoes-pesquisa/details/15/2080)).
  
