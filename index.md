@@ -18,10 +18,13 @@ Dublin, Ireland
 
 __Amazon Web Services (AWS)/CloudWatch - Software Dev. Manager - Dublin, Ireland__
 
-As a Software Development Manager (SDM) at AWS, I lead a team of engineers focused on developing and enhancing internal monitoring tools and CloudWatch Alarms. I manage product roadmaps, gather customer feedback, and collaborate closely with Product Managers, UX Designers, and SDMs across teams. My responsibilities include delivering internal and external features, used by millions of users, with high availability and scalability, operating at global scale. I´ve written and contributed to Correction of Errors procedures, and organize cross-team game days for peak event readiness. Directly contributed to multiple Senior team goals including re:Invent launches.
+As a Software Development Manager at AWS, I lead a team of engineers developing and enhancing internal monitoring tools and CloudWatch Alarms. My team delivers highly available and scalable features used by millions of customers worldwide.
 
-I define technical vision, design solutions, and develop quarterly and annual strategic plans while managing stakeholders and cross-functional engineering efforts. Focused on team growth, I create onboarding plans, conduct 1:1 coaching, and foster career development, resulting in multiple promotions.
+I manage product roadmaps, gather and incorporate customer feedback, and work closely with Product Managers, UX Designers, and cross-functional teams. My responsibilities include defining the technical vision, designing scalable solutions, and creating strategic quarterly and annual plans.
 
+I have contributed to multiple senior team initiatives, including re:Invent launches, and played a key role in writing and improving Correction of Errors procedures. I also organize cross-team game days to ensure operational readiness for peak events.
+
+Focusing on team growth, I create onboarding plans, provide 1:1 coaching, and support career development, resulting in several team member promotions.
 
 `Mar/2019-Jan/21`
 
@@ -36,7 +39,7 @@ I led initiatives that significantly improved Net Promoter Scores (NPS) by enhan
 
 __Accenture, Applied Intelligence, Senior Software Engineering Manager, Brazil__
 
-Tech leader of Risk Analytics business unit. Evolved and built decision support solutions for financial and non financial institutions. Implemented Data Visualization focusing on risk and performance of financial portfolios using Tableau. Led the product technology team of 15 software and financial engineers, and was responsible for  product evolution, driving major design overhauls, moving the architecture from a monolith to the cloud, implemented process agile improvement, team coordination, product backlog management. Hired, trained, and coached mutiple engineers. Key SME for technical selling for large clients, such as Banco Itaú, Anbima, Raizen, BNDES, and Vale.
+Tech leader of Risk Analytics business unit. Evolved and built decision support solutions for financial and non financial institutions. Implemented Data Visualization focusing on risk and performance of financial portfolios using Tableau. Led the product technology team of 15 software and financial engineers, and was responsible for  product evolution, driving major design overhauls, moving the architecture from a monolith to the cloud, implemented process agile improvement, team coordination, product backlog management. Hired, trained, and coached multiple engineers. Key SME for technical selling for large clients, such as Banco Itaú, Anbima, Raizen, BNDES, and Vale.
 
 `2003 - 2010`
 
