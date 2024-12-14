@@ -25,7 +25,7 @@ I define technical vision, design solutions, and develop quarterly and annual st
 
 `Mar/2019-Jan/21`
 
-__[Modalmais](https://www.modalmais.com.br/) - Engeneering Lead, Brazil__
+__[Modalmais](https://www.modalmais.com.br/) - Engineering Lead, Brazil__
 
 Modalmais was a pioneer digital banking in Brazil. In 2021, it had nearly $2 billion USD under custody, and more than 1 million customers. I was engeneering leader of Risk Managament tecnhology group, responsible for the data infrastructure pipeline the provides low latency backbone consumed by data science and risk management teams. Managed 4 distributed teams, including a low latency data infrastructure team and frontend teams, with a total of 20 Software Engineers. I implemented integrations with Vendor platforms using C#, Kafka, KSQL and RabbitMQ for Derivatives transactions, directly influenced architectural decisions,implemented observability controls using ElasticSearch and Kibana and  managed projects and communication with stakeholders.
 
