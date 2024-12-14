@@ -18,16 +18,16 @@ Dublin, Ireland
 
 __Amazon Web Services (AWS)/CloudWatch - Software Dev. Manager - Dublin, Ireland__
 
-As a Software Development Manager (SDM) at AWS, I lead a team of nine engineers focused on developing and enhancing internal monitoring tools and CloudWatch Alarms. I manage product roadmaps, gather customer feedback, and collaborate closely with Product Managers, UX Designers, and SDMs across teams. My responsibilities include delivering internal and external features, and improving operational resilience. I´ve written and contributed to Correction of Errors procedures, and organize cross-team game days for peak event readiness.
+As a Software Development Manager (SDM) at AWS, I lead a team of engineers focused on developing and enhancing internal monitoring tools and CloudWatch Alarms. I manage product roadmaps, gather customer feedback, and collaborate closely with Product Managers, UX Designers, and SDMs across teams. My responsibilities include delivering internal and external features, and improving operational resilience. I´ve written and contributed to Correction of Errors procedures, and organize cross-team game days for peak event readiness. Worked on multiple Senior team goals including re:Invent launches.
 
-I define technical vision, design solutions, and develop quarterly and annual strategic plans while managing stakeholders and cross-functional engineering efforts. Focused on team growth, I create onboarding plans, conduct 1:1 coaching, and foster career development, resulting in five engineer promotions in 2.5 years.
+I define technical vision, design solutions, and develop quarterly and annual strategic plans while managing stakeholders and cross-functional engineering efforts. Focused on team growth, I create onboarding plans, conduct 1:1 coaching, and foster career development, resulting in multiple promotions.
 
 
 `Mar/2019-Jan/21`
 
 __[Modalmais](https://www.modalmais.com.br/) - Engineering Lead, Brazil__
 
-Modalmais was a pioneer digital banking in Brazil. In 2021, it had nearly $2 billion USD under custody, and more than 1 million customers. I was engeneering leader of Risk Managament tecnhology group, responsible for the low latency trading data pipeline consumed by data science and risk management teams. Managed 4 distributed teams, including a low latency data infrastructure team and frontend teams, with a total of 20 Software Engineers. I implemented integrations with Vendor platforms using C#, Kafka, KSQL and RabbitMQ for Derivatives transactions, directly influenced architectural decisions, implemented observability controls using ElasticSearch and Kibana and managed projects and communication with stakeholders.
+Modalmais was a pioneer digital banking and brokerage in Brazil. In 2021, it had nearly $2 billion USD under custody, and more than 1 million customers. I was engeneering leader of Risk Managament tecnhology group, responsible for the low latency trading data pipeline consumed by data science and risk management teams. Managed 4 distributed teams, including a low latency data infrastructure team and frontend teams, with a total of 20 Software Engineers. I implemented integrations with Vendor platforms using C#, Kafka, KSQL and RabbitMQ for Derivatives transactions, directly influenced architectural decisions, implemented observability controls using ElasticSearch and Kibana and managed projects and communication with stakeholders.
 
 Led efforts that positively impacted NPS scores, by improving resiliency of instant-payment integration (PIX). Collaborated cross-functionally to identify root causes, including legacy code inefficiencies and undocumented features. Developed and implemented a structured mitigation plan with minimal system investment, including enhanced logging, UI adjustments, and operational changes. Established comprehensive documentation and incident knowledge bases.
 
